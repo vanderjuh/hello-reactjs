@@ -1,0 +1,11 @@
+#clients{
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#clients img {
+    height: 50px;
+}

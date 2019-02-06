@@ -1,0 +1,62 @@
+@media(max-width: 740px){
+    #itensServices{
+        flex-direction: column;
+    }
+    
+    #topMenu{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .itemPortfolio{
+        width: 75%;
+    }
+
+    #topMenu menu{
+        padding: 0;
+    }
+
+    #topMenu menu ul li{
+        font-size: 12px;
+    }
+
+    #itensTeam{
+        flex-direction: column;
+    }
+
+    #itensTeam div{
+        width: 90%;
+    }
+
+    #team hr {
+        display: inline;
+    }
+
+    #contact form {
+        width: 100%;
+        grid-template-columns: 100%;
+        grid-template-rows: 80px 80px 80px 150px 80px;
+        grid-template-areas: 
+            "inputName"
+            "inputEmail"
+            "inputPhoneNumber"
+            "textarea"
+            "buttonEnviar";
+        grid-gap: 20px;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+
+    #contentModal{
+        width: 100%;
+    }
+
+    #contentModal h1{
+        font-size: 30px
+    }
+}

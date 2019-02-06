@@ -1,0 +1,43 @@
+header {
+    height: 110vh;
+    min-height: 600px;
+    background-image: url('../../assets/img/header-bg.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#greeting {
+    text-align: center;
+    color: #FFF;
+}
+
+#greeting h1 {
+    font-size: 75px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+#greeting h2 {
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 200;
+    font-family: 'Droid Serif';
+    margin: 0;
+    margin: 15px 0;
+}
+
+#greeting button {
+    background-color: #fed136;
+    border-radius: 5px;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    border: 0;
+    padding: 25px 45px;
+    font-weight: bold;
+    font-size: 17px;
+}

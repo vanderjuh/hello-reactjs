@@ -1,0 +1,142 @@
+{
+    "greeting": {
+        "first": "Welcome To Our Studio!",
+        "second": "IT'S NICE TO MEET YOU"
+    },
+    "services": {
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "listServices": [{
+            "title": "E-Commerce",
+            "icon": "fa-shopping-cart",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        },
+        {
+            "title": "Responsive Design",
+            "icon": "fa-laptop",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        },
+        {
+            "title": "Web Security",
+            "icon": "fa-lock",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        }]
+    },
+    "portfolio": {
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "listItens": [{
+            "url": "threads",
+            "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/01-thumbnail.jpg",
+            "title": "Threads",
+            "description": "Illustration",
+            "text": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+            "date": "January 2017"
+        },
+        {
+            "url": "explore",
+            "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/02-thumbnail.jpg",
+            "title": "Explore",
+            "description": "Graphic Design",
+            "text": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+            "date": "March 2015"
+        },
+        {
+            "url": "finish",
+            "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/03-thumbnail.jpg",
+            "title": "Finish",
+            "description": "Identity",
+            "text": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+            "date": "January 2012"
+        },
+        {
+            "url": "lines",
+            "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/04-thumbnail.jpg",
+            "title": "Lines",
+            "description": "Branding",
+            "text": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+            "date": "December 2017"
+        },
+        {
+            "url": "southwest",
+            "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/05-thumbnail.jpg",
+            "title": "Southwest",
+            "description": "Website Design",
+            "text": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+            "date": "March 2010"
+        },
+        {
+            "url": "window",
+            "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/06-thumbnail.jpg",
+            "title": "Window",
+            "description": "Photography",
+            "text": "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+            "date": "November 2018"
+        }]
+    },
+    "about": {
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "listItens": [{
+            "title": "2009-2011",
+            "subTitle": "Our Humble Beginnings",
+            "description": "Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam."
+        },
+        {
+            "title": "March 2011",
+            "subTitle": "An Agency is Born",
+            "description": "Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam."
+        },
+        {
+            "title": "December 2012",
+            "subTitle": "Transition to Full Service",
+            "description": "Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam."
+        },
+        {
+            "title": "July 2014",
+            "subTitle": "Phase Two Expansion",
+            "description": "Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam."
+        }]
+    },
+    "team": {
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "subDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.",
+        "listItens": [{
+            "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/team/1.jpg",
+            "name": "Kay Garland",
+            "occupation": "Lead Designer",
+            "twitterUrl": "#twitter",
+            "facebookUrl": "#facebook",
+            "linkdinUrl": "#linkdin"
+        },
+        {
+            "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/team/2.jpg",
+            "name": "Larry Parker",
+            "occupation": "Lead Marketer",
+            "twitterUrl": "#twitter",
+            "facebookUrl": "#facebook",
+            "linkdinUrl": "#linkdin"
+        },
+        {
+            "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/team/3.jpg",
+            "name": "Diana Pertersen",
+            "occupation": "Lead Developer",
+            "twitterUrl": "#twitter",
+            "facebookUrl": "#facebook",
+            "linkdinUrl": "#linkdin"
+        }]
+    },
+    "clients": [{
+        "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/logos/envato.jpg",
+        "url": "#envato"
+    },
+    {
+        "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/logos/designmodo.jpg",
+        "url": "#designmodo"
+    },
+    {
+        "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/logos/themeforest.jpg",
+        "url": "#themeforest"
+    },
+    {
+        "urlImg": "https://blackrockdigital.github.io/startbootstrap-agency/img/logos/creative-market.jpg",
+        "url": "#creativemarket"
+    }]
+}

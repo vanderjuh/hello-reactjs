@@ -1,0 +1,52 @@
+#services {
+    padding: 150px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#itensServices{
+    display: flex;
+}
+
+#itensServices div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#itensServices div .iconItem{
+    background-color: #fed136;
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+}
+
+#itensServices div h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+#itensServices div p{
+    font-family: 'Droid Serif';
+    text-align: center;
+    line-height: 25px;
+}
+
+#services h1 {
+    color: #212529;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    margin: 0;
+}
+
+#services p {
+    font-family: 'Droid Serif';
+    font-style: italic;
+    color: #6c757d;
+}
